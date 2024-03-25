@@ -1,4 +1,4 @@
-Projet de Sniper de Jetons pour Avalanche
+## Projet de Sniper de Jetons pour Avalanche
 
 Ce projet Node.js est conçu pour "sniper" (acheter rapidement) des jetons sur la blockchain Avalanche en utilisant le routeur TraderJoe.
 
